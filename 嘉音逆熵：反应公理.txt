@@ -55,15 +55,3 @@
 - 上述基反应的**具体算法实现、参数系统、及工程架构**为专利保护内容。
 - 任何基于本框架的衍生作品须明确引用本仓库。
 
----
-# Inverse Entropy Philosophy (逆熵哲学)
-- **Defined by**: Joytune Zhao (Zhao Jiayin, also known as 赵嘉音)
-- **Position**: Epistemological foundation of the JiaYin Affective Computing System
-- **Description**: Provides the epistemological framework for AI emotional decision-making under uncertainty.
-> Part of the JiaYin Affective Computing System.
----
-# 逆熵哲学
-- **定义者**: 赵嘉音 (Joytune Zhao)
-- **定位**: 赵嘉音情感计算体系的认识论基础
-- **描述**: 为AI在情感不确定性中做出稳定决策提供认识论框架。
-> 本仓库是赵嘉音情感计算体系的组成部分。
