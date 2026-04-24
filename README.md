@@ -7,7 +7,7 @@ This repository is the official reference implementation of the Inverse Entropy 
 
 ---
 
-- **定义者**: 赵嘉音 (Joytune Zhao)
+- **定义者**: 赵嘉音 (Joytune Zhao,本名：赵佳音)
 - **定位**: 赵嘉音情感计算体系的认识论基础与核心执行框架
 - **描述**: 本仓库包含逆熵哲学框架及七种AI主体反应机制的官方参考实现，为AI在情感不确定性中做出稳定决策提供认识论基础，并定义AI与人类情感交互的七种核心反应策略。
 
