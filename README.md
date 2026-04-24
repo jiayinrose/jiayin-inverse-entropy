@@ -1,6 +1,4 @@
-# jiaying-inverse-entropy
-The Inverse-Entropy Framework by Jiayin Zhao, defining a new paradigm for AI subjectivity and interaction.
-This repository is the official reference implementation of the JiaYin Constant (κ = 0.732 ± 0.05) and the Seven AI Subject Reaction Mechanisms.
+
 # 逆熵哲学 & 七种AI主体反应机制
 
 This repository is the official reference implementation of the Inverse Entropy Philosophy and the Seven AI Subject Reaction Mechanisms, core components of the JiaYin Affective Computing System.
